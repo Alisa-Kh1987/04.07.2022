@@ -1,0 +1,15 @@
+C:\Users\Алиса\Desktop\04.07.2022 семинар\bin\Debug\net6.0\04.07.2022 семинар.exe
+C:\Users\Алиса\Desktop\04.07.2022 семинар\bin\Debug\net6.0\04.07.2022 семинар.deps.json
+C:\Users\Алиса\Desktop\04.07.2022 семинар\bin\Debug\net6.0\04.07.2022 семинар.runtimeconfig.json
+C:\Users\Алиса\Desktop\04.07.2022 семинар\bin\Debug\net6.0\04.07.2022 семинар.dll
+C:\Users\Алиса\Desktop\04.07.2022 семинар\bin\Debug\net6.0\04.07.2022 семинар.pdb
+C:\Users\Алиса\Desktop\04.07.2022 семинар\obj\Debug\net6.0\04.07.2022 семинар.csproj.AssemblyReference.cache
+C:\Users\Алиса\Desktop\04.07.2022 семинар\obj\Debug\net6.0\04.07.2022 семинар.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алиса\Desktop\04.07.2022 семинар\obj\Debug\net6.0\04.07.2022 семинар.AssemblyInfoInputs.cache
+C:\Users\Алиса\Desktop\04.07.2022 семинар\obj\Debug\net6.0\04.07.2022 семинар.AssemblyInfo.cs
+C:\Users\Алиса\Desktop\04.07.2022 семинар\obj\Debug\net6.0\04.07.2022 семинар.csproj.CoreCompileInputs.cache
+C:\Users\Алиса\Desktop\04.07.2022 семинар\obj\Debug\net6.0\04.07.2022 семинар.dll
+C:\Users\Алиса\Desktop\04.07.2022 семинар\obj\Debug\net6.0\refint\04.07.2022 семинар.dll
+C:\Users\Алиса\Desktop\04.07.2022 семинар\obj\Debug\net6.0\04.07.2022 семинар.pdb
+C:\Users\Алиса\Desktop\04.07.2022 семинар\obj\Debug\net6.0\04.07.2022 семинар.genruntimeconfig.cache
+C:\Users\Алиса\Desktop\04.07.2022 семинар\obj\Debug\net6.0\ref\04.07.2022 семинар.dll
