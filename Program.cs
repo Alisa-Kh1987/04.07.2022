@@ -19,19 +19,35 @@
 //}
  //   Console.WriteLine(sum);
 
-//с использованием метода
-int sum_numbers(int num)
+//с использованием метода int
+//int sum_numbers(int num)
+//{
+//    int sum = 0;
+//    for ( int i = 1; i <= num; i++)
+//    {
+//    sum = sum + i;
+ //   }
+ //   return sum;
+//}
+//    for ( int i = 1; i <= 5; i++)
+//{
+//Console.WriteLine ("Input N");
+//int N = Convert.ToInt32(Console.ReadLine());
+//Console.WriteLine(N + "->" + sum_numbers(N));
+//}
+
+void sum_numbers(int num)
 {
     int sum = 0;
     for ( int i = 1; i <= num; i++)
     {
     sum = sum + i;
     }
-    return sum;
+    Console.WriteLine(num + "->" + sum);
 }
-    for ( int i = 1; i <= 5; i++)
+    for (int i = 1; i <= 5; i++)
 {
 Console.WriteLine ("Input N");
 int N = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine(N + "->" + sum_numbers(N));
+sum_numbers(N);
 }
