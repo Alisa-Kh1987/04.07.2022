@@ -64,11 +64,12 @@ int[] CreateRandomArray(int N, int start, int end) //N - количество э
 }
 //вывод на экран массива
 void ShowArray(int[] array)
-{
+{   Console.Write(" -> [");
     for (int i = 0; i < array.Length; i++)
     {
-        Console.Write(array[i] + " ");
+        Console.Write(array[i] + " , ");
     }
+    Console.Write("]");
     Console.WriteLine();
 }
 Console.Clear();  //чтобы автоматически при запуске программы консоль очищалась
