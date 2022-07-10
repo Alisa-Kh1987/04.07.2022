@@ -129,7 +129,7 @@
 //    {
 //        Console.Write(array[i] + ", ");
 //    }
-//    Console.Write("]"); //завершаем оформление скобками]
+//    Console.Write("]"); 
 //    Console.WriteLine();
 //}
 //Console.Clear();
